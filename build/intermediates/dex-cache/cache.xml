@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JWeb56/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_91fb249ccbb3639ce7ad98e7d651b3c24931f560/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16e9c6b740b5c49e82030616d20030f38d51064d">
+        <dex dex="/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d496a6cde43d807a341b39350a923581024b6e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_52158a23cc6ed1689842280fd79e24a3079ecf71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JWeb56/.android/build-cache/8326a2176ab99339e7befd9febe6a7d7f1520092/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd7615a163576de0fbb7ccdbb76cff4c059fae6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JWeb56/.android/build-cache/ebf3e9eb680f2030812b65d533404ad66f05a180/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b600ea1298f2dbb6e592ced227560e1cbd1032a3/classes.dex" />
+    </item>
+
+</items>

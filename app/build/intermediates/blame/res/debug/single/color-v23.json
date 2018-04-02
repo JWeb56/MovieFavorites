@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/JWeb56/.android/build-cache/3d4531bb69f823100ebd3dfc878800479068ebb9/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

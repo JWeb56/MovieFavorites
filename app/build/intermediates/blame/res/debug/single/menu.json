@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/res/merged/debug/menu/menu_detail.xml",
+        "source": "/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/src/main/res/menu/menu_detail.xml"
+    },
+    {
+        "merged": "/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/build/intermediates/res/merged/debug/menu/menu_detail.xml",
+        "source": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/src/main/res/menu/menu_detail.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Feb 12 15:52:54 EST 2018
+base.0=/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d496a6cde43d807a341b39350a923581024b6e2a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_52158a23cc6ed1689842280fd79e24a3079ecf71/classes.dex
+base.1=/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_52158a23cc6ed1689842280fd79e24a3079ecf71
+file.0=/Users/JWeb56/Desktop/Udacity Stuff/Android Development/Projects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d496a6cde43d807a341b39350a923581024b6e2a/classes.dex

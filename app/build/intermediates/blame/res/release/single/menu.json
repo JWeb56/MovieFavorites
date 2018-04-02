@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/build/intermediates/res/merged/release/menu/menu_detail.xml",
+        "source": "/Users/JWeb56/AndroidStudioProjects/PopularMovies/app/src/main/res/menu/menu_detail.xml"
+    }
+]
